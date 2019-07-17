@@ -1,0 +1,16 @@
+{
+  "name": "message_nodejs",
+  "version": "1.0.0",
+  "description": "proje",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oyku",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "nodemon": "^1.12.1",
+    "socket.io": "^2.2.0"
+  }
+}
